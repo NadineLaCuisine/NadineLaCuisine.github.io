@@ -1,7 +1,9 @@
 = Pull 
 
+Clic pour voir la photo nadine
 
 :hp-tags: Mode, Robe, Pull
+
 image::CamillePull.jpg[]
 
 Over
