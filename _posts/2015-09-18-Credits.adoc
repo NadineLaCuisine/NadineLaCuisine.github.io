@@ -3,4 +3,7 @@
 
 
 image::nadine.jpg[role="related thumb left",150,150]
-Ce qui vient au monde pour ne rien troubler ne mérite ni égard ni patience.
+Ce qui vient au monde 
+pour ne rien troubler 
+ne mérite ni égard 
+ni patience.
