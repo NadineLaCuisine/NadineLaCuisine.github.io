@@ -1,7 +1,7 @@
 = Credits
 
 
-image::nadine.jpg[100,200,float="right",align="center"]
+image::nadine.jpg[100,100,float="left",align="center"]
 Ce qui vient au monde 
 pour ne rien troubler 
 ne mérite ni égard 
