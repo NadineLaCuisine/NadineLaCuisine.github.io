@@ -7,3 +7,5 @@ Ce qui vient au monde
 pour ne rien troubler 
 ne mérite ni égard 
 ni patience.
+image::nadine.png[200,200,float="right",align="center"]
+
