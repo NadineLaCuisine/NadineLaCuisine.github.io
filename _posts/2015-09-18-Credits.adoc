@@ -3,4 +3,4 @@
 
 
 image::nadine.jpg[role="related thumb left"]
-
+Ce qui vient au monde pour ne rien troubler ne mérite ni égard ni patience.
