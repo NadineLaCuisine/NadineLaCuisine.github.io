@@ -1,11 +1,8 @@
 = Credits
 
 
-
-image::nadine.jpg[role="related thumb left",150,150]
+image::nadine.png[200,200,float="right",align="center"]
 Ce qui vient au monde 
 pour ne rien troubler 
 ne mérite ni égard 
 ni patience.
-image::nadine.png[200,200,float="right",align="center"]
-
