@@ -2,7 +2,6 @@
 
 
 image::nadine.jpg[100,100,float="left",align="center"]
-Ce qui vient au monde 
-pour ne rien troubler 
-ne mérite ni égard 
-ni patience.
+"Ce qui vient au monde pour ne rien troubler ne mérite ni égard ni patience."
+
+This stuff is webmastered by a most delightful man whom I love so much.
